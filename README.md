@@ -8,7 +8,8 @@ The Stock Forecast App is your gateway to precision forecasting in the dynamic w
 
 -> To experience the Stock Forecast App, [click here](https://stock-prediction-web-app-ml.streamlit.app/?embed_options=dark_theme).
 
--> View here for a quick demo, just click "view raw" for the video to download: [here](https://github.com/ishita48/Stock_Prediction_Web_App_ML/blob/main/Stock%20Forecast%20App.webm).
+-> View here for a quick demo, [YouTube Demo](https://youtu.be/3wDDKFrcKy8)
+ <br> OR<br> just click "view raw" for the video to download: [here](https://github.com/ishita48/Stock_Prediction_Web_App_ML/blob/main/Stock%20Forecast%20App.webm).<br>
 
 **Technological Backbone**
 
