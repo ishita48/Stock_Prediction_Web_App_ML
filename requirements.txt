@@ -1,0 +1,6 @@
+streamlit
+yfinance
+prophet
+plotly
+pandas
+pystan
